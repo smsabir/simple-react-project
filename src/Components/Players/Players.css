@@ -1,0 +1,12 @@
+.player-container{
+    width: 80%;
+    border-right: 1px solid gray;
+  }
+.section-heading{
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px 30px;
+  }

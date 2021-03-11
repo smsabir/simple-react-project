@@ -1,0 +1,24 @@
+.selection-container{
+    text-align: left;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.individual-player{
+    border-bottom: 1px solid whitesmoke;
+}
+.selected-players{
+    border: 1px solid grey;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(9, 53, 102);
+    color: whitesmoke;
+}
+.total-area{
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color:rgb(155, 19, 37);
+    padding: 10px;
+    margin-top: 15px;
+    color: whitesmoke;
+}

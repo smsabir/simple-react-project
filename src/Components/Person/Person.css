@@ -1,0 +1,28 @@
+.player-profile{
+    float: left;
+    border: 1px solid rgb(144, 144, 144);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 250px;
+    background-color: rgb(155, 19, 37);
+    box-shadow: 1px 1px 8px rgb(212, 212, 212);
+    text-align: center;
+    color: honeydew;
+}
+#photo img{
+    height: 220px;
+    width: 220px;
+    border-radius: 0%;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 5px;
+    box-shadow: 1px 1px 3px whitesmoke;
+}
+.player-profile button{
+    height: 30px;
+    border-radius: 5px;
+    background-color:lightgray;
+    background-color: rgb(9, 53, 102);
+    color: rgb(216, 213, 213);
+}
